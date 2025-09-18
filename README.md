@@ -17,11 +17,7 @@ My goal is to build interactive experiences and solve challenging problems with 
 - 🎮 I love playing and researching games to understand their mechanics.  
 - 📚 I enjoy reading manga in my free time.  
 - 🧠 Always exploring ways to improve game development workflows and learn new techniques.  
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LDCin&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LDCin&layout=compact&theme=radical)  
-
+ 
 ## 🔥 Contribution Streak  
 ![GitHub Streak](https://streak-stats.demolab.com?user=LDCin&theme=radical)  
 
